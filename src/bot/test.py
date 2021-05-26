@@ -1,0 +1,10 @@
+from core import pinBot
+bot=pinBot()
+bot.createPost('http://i.imgur.com/Z3fM3in.jpg','a hoola new')
+#a.followBoard('philippawestlee/must-have')
+#print(a.getFollowingBoards())
+#print(a.getFollowingUsers())
+#ids,users = a.search('pooop','board',2)
+#print(users)
+#print("*****")
+#print(ids)

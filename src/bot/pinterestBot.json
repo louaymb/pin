@@ -1,0 +1,31 @@
+{
+  "board": {
+    "scrolls": 5,
+    "follow": 5,
+    "unfollow": 10
+  },
+  "pin": {
+    "scrolls": 5,
+    "save": 5
+  },
+  "user": {
+    "follow": 4,
+    "unfollow": 10
+  },
+  "periods": {
+    "post_to_post_per_day": 2,
+    "follow_freq_per_day": 2,
+    "unfollow_freq_per_week": 2
+  },
+  "posts": [
+     {"note":"I am a desc","imageUrl":"http://i.imgur.com/pAiW6Ta.jpg"},
+     {"note":"I am a desc","imageUrl":"http://i.imgur.com/QjR7N6z.jpg"},
+     {"note":"I am a desc","imageUrl":"http://i.imgur.com/1OBA5hu.jpg"},
+     {"note":"I am a desc","imageUrl":"http://i.imgur.com/ZviYBqu.jpg"},
+     {"note":"I am a desc","imageUrl":"http://i.imgur.com/oylBqOd.jpg"}
+  ],
+  "search_terms": [
+    "happy"
+  ]
+
+}
